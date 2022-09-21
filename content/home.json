@@ -42,8 +42,9 @@
       ]
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "dynamic-showcase",
