@@ -10,7 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/9511-imagem_2022-08-16_205033834.png",
+          "img": "/img/uploads/imagem_2022-09-21_184743385.png",
           "mobile_img": "/img/uploads/9511-imagem_2022-08-16_205033834.png"
         }
       ]
@@ -47,7 +47,7 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "news"
     }
   ]
