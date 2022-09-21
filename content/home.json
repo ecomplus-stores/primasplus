@@ -20,9 +20,13 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/9511-imagem_2022-05-20_171907434.png"
         }
       ]
