@@ -6,6 +6,7 @@
   "description": "primasplus",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
+  "repository": "ecomplus-stores/primasplus",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
