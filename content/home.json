@@ -42,15 +42,12 @@
       ]
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": ""
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "news"
     }
   ]
