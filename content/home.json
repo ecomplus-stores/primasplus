@@ -23,7 +23,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
-      "sort": "offers",
+      "sort": "sales",
       "title": "",
       "headless": false,
       "limit": 12,
