@@ -23,7 +23,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
-      "sort": "sales",
+      "sort": "views",
       "title": "",
       "headless": false,
       "limit": 12,
