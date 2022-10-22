@@ -24,7 +24,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "title": "MAIS VENDIDOS"
     },
     {
