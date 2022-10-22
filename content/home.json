@@ -24,7 +24,7 @@
       "shuffle": true,
       "collection_id": "621d9c317963422eee242c5f:brands:Predilects :/predilects",
       "sort": "news",
-      "title": "FlightLevel",
+      "title": "Ultimas Novidades Predilect's",
       "headless": false,
       "limit": 12,
       "page": 1
@@ -54,7 +54,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "title": "MAIS VENDIDOS"
     },
     {
