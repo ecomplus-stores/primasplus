@@ -26,8 +26,8 @@
       "sort": "news",
       "title": "Ultimas Novidades Predilect's",
       "headless": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 2
     },
     {
       "type": "banner-slider",
