@@ -54,13 +54,6 @@
       "page": 2
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 2000,
-      "sort": "name"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
