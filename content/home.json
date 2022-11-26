@@ -9,11 +9,6 @@
       "slides": [
         {
           "start": "",
-          "end": "2022-11-27T03:00:00.000Z",
-          "img": "/img/uploads/imagem_2022-11-20_223915849.png"
-        },
-        {
-          "start": "",
           "end": "",
           "img": "/img/uploads/imagem_2022-11-21_211010025.png",
           "mobile_img": ""
@@ -23,19 +18,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "2022-11-27T03:00:00.000Z",
-          "img": "/img/uploads/imagem_2022-11-20_224738437.png",
-          "link": "https://primasplus.com.br/black-friday"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
