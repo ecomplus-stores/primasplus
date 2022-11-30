@@ -16,6 +16,14 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "MAIS VENDIDOS"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -24,8 +32,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "title": "MAIS VENDIDOS"
+      "sort": "offers",
+      "title": "OPORTUNIDADES"
     },
     {
       "type": "banner-slider",
