@@ -1,7 +1,7 @@
 {
   "domain": "primasplus.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#fff646",
+  "primary_color": "#e2d939",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
