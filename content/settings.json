@@ -1,14 +1,14 @@
 {
   "domain": "primasplus.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ef0a0e",
+  "primary_color": "#fff646",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
   },
   "bg_color": "#f3d6ef",
   "repository": "ecomplus-stores/primasplus",
-  "logo": "/img/uploads/image.png",
+  "logo": "/img/uploads/image-2-.png",
   "name": "Primas Plus",
   "short_name": "Primas Plus",
   "lang": "pt_br",
