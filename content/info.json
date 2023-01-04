@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete gratis a partir de 399,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Pague em até 10x sem juros no cartão"
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Pague com Addi Pix Parcelado"
   }
 }
