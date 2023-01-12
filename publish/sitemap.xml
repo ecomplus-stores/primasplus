@@ -962,6 +962,18 @@
     </url>
   
     <url>
+      <loc>https://primasplus.com.br/macacao-sophia-quebela</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://primasplus.com.br/macacao-arman-quebela</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://primasplus.com.br/vestidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
