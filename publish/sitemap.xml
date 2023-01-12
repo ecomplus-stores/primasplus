@@ -434,12 +434,6 @@
     </url>
   
     <url>
-      <loc>https://primasplus.com.br/macaquinho-pedrarias-quebela-c564</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://primasplus.com.br/macacao-carrot-quebela-c456-c385</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1023,6 +1017,12 @@
   
     <url>
       <loc>https://primasplus.com.br/conjunto-fun-70-s-quebela</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://primasplus.com.br/macaquinho-pedrarias-quebela-c564-c768</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
