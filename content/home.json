@@ -73,6 +73,10 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>"
     }
   ]
 }
