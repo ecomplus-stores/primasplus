@@ -8,16 +8,22 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2023-02-07T12:55:21.662Z",
           "end": "",
-          "img": "/img/uploads/imagem_2023-01-21_202529027.png",
-          "mobile_img": ""
+          "img": "/img/uploads/inserir-um-titulo.png",
+          "link": "https://primasplus.com.br/carnaval"
         },
         {
           "start": "2023-02-07T03:54:09.195Z",
           "end": "",
           "img": "/img/uploads/copia-de-promocoes-e-ofertas.gif",
           "link": "https://primasplus.com.br/macaquinho-amarracao-quebela"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/imagem_2023-01-21_202529027.png",
+          "mobile_img": ""
         },
         {
           "start": "",
@@ -35,12 +41,6 @@
           "end": "",
           "link": "https://primasplus.com.br/pages/tabela-de-medidas",
           "img": "/img/uploads/imagem_2023-01-23_202929267.png"
-        },
-        {
-          "start": "2023-02-07T12:55:21.662Z",
-          "end": "",
-          "img": "/img/uploads/inserir-um-titulo.png",
-          "link": "https://primasplus.com.br/carnaval"
         }
       ]
     },
