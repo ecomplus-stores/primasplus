@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete gratis a partir de 399,00 Sul e Sudeste"
+    "text": "Frete gratis a partir de R$ 399,00 Sul e Sudeste"
   },
   "installments": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Pague com Addi Pix Parcelado"
+    "text": "50% DESCONTO FRETE A PARTIR DE R$ 399,00 NORTE, NORDESTE E CENTRO-OESTE"
   }
 }
