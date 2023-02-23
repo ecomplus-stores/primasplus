@@ -34,17 +34,17 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
       "sort": "sales",
       "title": "MAIS VENDIDOS"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
     },
     {
       "type": "info-bar",
