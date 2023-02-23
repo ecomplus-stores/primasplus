@@ -34,11 +34,6 @@
       ]
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -47,21 +42,13 @@
       "title": "MAIS VENDIDOS"
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-12-26T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/9511-imagem_2022-05-20_171907434.png",
-          "link": "https://www.instagram.com/primas.plus/"
-        }
-      ]
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "breadcrumbs",
