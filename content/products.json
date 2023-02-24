@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "buy-together",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -14,10 +18,6 @@
     },
     {
       "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "buy-together",
       "enabled": true
     },
     {
