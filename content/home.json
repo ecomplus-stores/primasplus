@@ -67,8 +67,7 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": null
+      "load_more": false
     },
     {
       "type": "custom-html",
