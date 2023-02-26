@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#ff00fa",
   "theme": {
-    "bootswatch": "minty",
+    "bootswatch": "cosmo",
     "custom": "clean-white"
   },
   "bg_color": "#f3d6ef",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/9511-whatsapp-image-2022-02-26-at-13.36.14.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#110808",
   "icon": "/img/uploads/9511-eeeeeeeeeeeee.png",
   "store_id": 9511,
   "description": "Primas Plus",
