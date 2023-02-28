@@ -54,6 +54,18 @@
       "title": "ULTIMOS LANÇAMENTOS"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/imagem_2023-02-28_162625930.png"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
