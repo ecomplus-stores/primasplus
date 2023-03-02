@@ -50,9 +50,9 @@
       "shuffle": true,
       "limit": 20,
       "page": 1,
-      "sort": "sales",
-      "title": "MAIS VENDIDOS",
-      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
+      "sort": "views",
+      "title": "LANÇAMENTOS",
+      "collection_id": "63cea1c6b9e5be07784284b0:categories:LANÇAMENTO:/lancamento"
     },
     {
       "type": "banner-slider",
