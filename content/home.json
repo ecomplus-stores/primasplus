@@ -39,19 +39,19 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 20,
-      "page": 1,
-      "sort": "sales",
-      "title": "MAIS VENDIDOS"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
       "sort": "news",
       "title": "ULTIMOS LANÇAMENTOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 20,
+      "page": 1,
+      "sort": "sales",
+      "title": "MAIS VENDIDOS"
     },
     {
       "type": "banner-slider",
