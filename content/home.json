@@ -47,12 +47,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 20,
       "page": 1,
-      "sort": "views",
-      "title": "LANÇAMENTOS",
-      "collection_id": "63cea1c6b9e5be07784284b0:categories:LANÇAMENTO:/lancamento"
+      "sort": "news",
+      "title": "PRÉ-VENDA",
+      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
     },
     {
       "type": "banner-slider",
