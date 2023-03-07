@@ -42,8 +42,8 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "sales",
-      "title": "MAIS VENDIDOS"
+      "sort": "news",
+      "title": "NOVIDADES"
     },
     {
       "type": "collection-shelf",
