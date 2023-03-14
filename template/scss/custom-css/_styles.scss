@@ -1,1 +1,22 @@
 // Add your custom CSS here.
+.list-variations {
+    h4 {
+        text-align: center;
+    }
+    ul {
+        display: flex;
+        list-style: none;
+        justify-content: center;
+        text-align: center;
+        margin-left: -45px;
+    }
+    li {
+        padding: 5px;
+        width: 30px;
+        background-color: #000;
+        margin-right: 2px;
+        a {
+            color: #fff
+        }
+    }
+}
