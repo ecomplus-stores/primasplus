@@ -40,7 +40,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"list-variations\"><h4>Compre por tamanhos</h4><ul><li><a href=\"/search?filters[]=tamanho:44\">44</a></li><li> <a href=\"/search?filters[]=tamanho:46\">46</a></li><li> <a href=\"/search?filters[]=tamanho:48\">48</a></li><li> <a href=\"/search?filters[]=tamanho:50\">50</a></li><li> <a href=\"/search?filters[]=tamanho:52\">52</a></li><li> <a href=\"/search?filters[]=tamanho:54\">54</a></li><li> <a href=\"/search?filters[]=tamanho:G\">G</a></li><li> <a href=\"/search?filters[]=tamanho:GG\">GG</a></li><li> <a href=\"/search?filters[]=tamanho:G1\">G1</a></li></ul><div>"
+      "html": "<div class=\"list-variations\">\n<h4>Compre por tamanhos</h4>\n<ul>\n   <li><a href=\"/search?filters[]=tamanho:44\">44</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:46\">46</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:48\">48</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:50\">50</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:52\">52</a></li>\n   <li> <a href=\"/search?filters[]=tamanho:54\">54</a></li> \n</ul>\n<div>"
     },
     {
       "type": "collection-shelf",
