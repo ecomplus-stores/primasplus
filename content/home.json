@@ -51,6 +51,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "collection_id": "642ecd9d4bd2e929c1c43e2f:categories:DEZINHA:/dezinha",
+      "title": "PROVADOR DEBORA FERNANDES"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "sort": "news",
