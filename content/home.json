@@ -51,11 +51,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
       "sort": "news",
-      "title": "PROVADOR ELAINE AMARAL",
-      "collection_id": "6439c1a14bd2e929c1d056f0:categories:Elaine:/elaine"
+      "title": "NOVIDADES"
     },
     {
       "type": "collection-shelf",
@@ -69,18 +68,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 20,
       "page": 1,
-      "sort": "news",
-      "title": "NOVIDADES"
+      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda",
+      "title": "PRÉ-VENDA"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 20,
       "page": 1,
-      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda",
-      "title": "PRÉ-VENDA"
+      "sort": "news",
+      "title": "PROVADOR ELAINE AMARAL",
+      "collection_id": "6439c1a14bd2e929c1d056f0:categories:Elaine:/elaine"
     },
     {
       "type": "banner-slider",
