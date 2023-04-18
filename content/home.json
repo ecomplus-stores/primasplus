@@ -106,6 +106,12 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
