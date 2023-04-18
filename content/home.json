@@ -77,8 +77,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 20,
+      "page": 1,
+      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda",
+      "title": "PRÉ-VENDA"
     },
     {
       "type": "banner-slider",
