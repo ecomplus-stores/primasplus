@@ -65,20 +65,27 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "collection_id": "642ecd9d4bd2e929c1c43e2f:categories:DEZINHA:/dezinha",
-      "title": "PROVADOR DEBORA FERNANDES"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 20,
       "page": 1,
       "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda",
       "title": "PRÉ-VENDA",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "PROVADORE ALINE ZATTAR"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "collection_id": "642ecd9d4bd2e929c1c43e2f:categories:DEZINHA:/dezinha",
+      "title": "PROVADOR DEBORA FERNANDES"
     },
     {
       "type": "collection-shelf",
