@@ -66,6 +66,12 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
       "page": 1,
       "title": "PROVADOR ALINE ZATTAR",
       "collection_id": "644eaebf4bd2e929c1e6e807:categories:Aline Zattar:/aline-zattar"
