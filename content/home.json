@@ -65,25 +65,8 @@
       "limit": 24,
       "page": 1,
       "sort": "news",
-      "title": "PROVADOR BRUNA RÊGO",
+      "title": "NOVIDADES",
       "collection_id": "6466edf4a0e875411e944ac9:categories:Bruna Rego:/brunarego"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "PROVADOR ALINE ZATTAR",
-      "collection_id": "644eaebf4bd2e929c1e6e807:categories:Aline Zattar:/aline-zattar"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "collection_id": "642ecd9d4bd2e929c1c43e2f:categories:DEZINHA:/dezinha",
-      "title": "PROVADOR DEBORA FERNANDES"
     },
     {
       "type": "collection-shelf",
