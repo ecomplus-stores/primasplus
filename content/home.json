@@ -88,11 +88,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
       "sort": "news",
-      "title": "PROVADOR ELAINE AMARAL",
-      "collection_id": "6439c1a14bd2e929c1d056f0:categories:Elaine:/elaine"
+      "title": "OPORTUNIDADES",
+      "collection_id": "63d9eb0fb9e5be07784e17ed:categories:Oportunidades:/oportunidades"
     },
     {
       "type": "banner-slider",
