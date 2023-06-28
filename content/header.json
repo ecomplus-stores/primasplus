@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": "/promotion",
-    "background": "#000000"
+    "text": "10% DO VALOR DA SUA COMPRA É CONVERTIDO EM CASHBACK PARA SUA PROXIMA COMPRA!",
+    "link": "https://www.instagram.com/reel/Cn8HQ-6jrIc/?igshid=YmMyMTA2M2Y%3D",
+    "background": "#ff00fa",
+    "color": "#110808"
   },
   "contacts_stripe": {
     "pages": [
