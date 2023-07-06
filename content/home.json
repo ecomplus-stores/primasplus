@@ -61,15 +61,6 @@
       "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "news",
-      "title": "OPORTUNIDADE MARAVIGOLD",
-      "collection_id": "63d9eb0fb9e5be07784e17ed:categories:Oportunidades:/oportunidades"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
