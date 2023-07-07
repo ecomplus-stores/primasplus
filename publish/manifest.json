@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.26e98012280654a01d8d1c4d02d2777a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9f81b265a79b9cfd4f8101e5c464c890.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6a3d6a5be0410fbe3692596561489180.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0817dbfab2bb45ec189191fbe44f1cdd.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0cb0369cd7e80cb29faf7441a9744b15.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Primas Plus",
+  "short_name": "Primas Plus",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Primas Plus",
+  "background_color": "#f3d6ef",
+  "theme_color": "#ff00fa"
+}
