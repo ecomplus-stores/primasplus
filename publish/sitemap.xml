@@ -2342,91 +2342,7 @@
     </url>
   
     <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-6046</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-8238</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-9521</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-2740</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-1141</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-5635</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-7549</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://primasplus.com.br/blusa-airflow-milanjus-9414</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-7224</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-3408</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-1557</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-1684</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-5823</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-2415</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/blusa-airflow-milanjus-5115</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2822,31 +2738,7 @@
     </url>
   
     <url>
-      <loc>https://primasplus.com.br/blusa-casual-flow-quebela-pre-venda-8863</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://primasplus.com.br/conjunto-no-quebela-pre-venda-6730</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/calca-senses-quebela-pre-venda-9846</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/colete-senses-quebela-pre-venda-7180</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://primasplus.com.br/macaquinho-gispy-quebela-pre-venda-9619</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2919,6 +2811,12 @@
   
     <url>
       <loc>https://primasplus.com.br/conjunto-moletinho-com-detalhes-em-tela-itcurves</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://primasplus.com.br/cropped-paete-itcurves</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
