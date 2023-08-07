@@ -47,15 +47,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "sort": "news",
-      "title": "NOVIDADE",
-      "collection_id": null
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
       "page": 1,
@@ -98,7 +89,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "custom-html",
