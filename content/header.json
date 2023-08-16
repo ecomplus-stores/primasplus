@@ -13,7 +13,17 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/conjuntos?Conjuntos",
+      "/casacoblazer?Casaco/Blazer",
+      "/moda-fitness?Moda Fitness",
+      "/moda-intima?Moda Intima",
+      "/calcas?Calças",
+      "/camisas?Camisas/Blusas",
+      "/vestidos?Vestidos",
+      "/outlet?Outlet",
+      "/prevenda?PRÉ-VENDA"
+    ],
     "random": 11,
     "full_width": true
   },
