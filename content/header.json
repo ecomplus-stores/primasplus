@@ -15,14 +15,13 @@
   "categories_list": {
     "featured": [
       "/pecas?peças",
-      "/casacoblazer?Casaco/Blazer",
       "/moda-fitness?Moda Fitness",
       "/moda-intima?Moda Intima",
-      "/camisas?Camisas/Blusas",
+      "/prevenda?PRÉ-VENDA",
       "/outlet?Outlet",
-      "/prevenda?PRÉ-VENDA"
+      "/brunarego?Bruna Rego"
     ],
-    "random": 10,
+    "random": 6,
     "full_width": true
   },
   "desktop_megamenu": true,
