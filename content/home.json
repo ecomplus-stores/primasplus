@@ -63,6 +63,16 @@
       "collection_id": "64c3c21f5e6069037076f6f4:categories:Bruna Rego:/brunarego"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "64dd02ac2cd6b6595919e463:categories:Outlet:/outlet",
+      "title": "Outlet",
+      "headless": false
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
