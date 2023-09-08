@@ -4,10 +4,10 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "fbqContainerId": "948026466608521",
+    "fbqContainerId": "6457656756765",
     "debug": false,
     "partytown": false,
-    "disablePurchase": true
+    "disablePurchase": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
