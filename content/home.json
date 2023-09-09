@@ -51,8 +51,9 @@
       "limit": 24,
       "page": 1,
       "sort": "news",
-      "title": "Coleção Refletir By Bruna Rêgo",
-      "collection_id": "64e8b3802cd6b659592b4154:categories:Bruna Rego:/brunarego"
+      "collection_id": "64fc79772cd6b65959445da5:categories:Aline Zattar:/alinezattar",
+      "title": "Coleção Refletir By Aline Zattar",
+      "headless": false
     },
     {
       "type": "collection-shelf",
@@ -60,9 +61,8 @@
       "limit": 24,
       "page": 1,
       "sort": "news",
-      "collection_id": "64fc79772cd6b65959445da5:categories:Aline Zattar:/alinezattar",
-      "title": "Coleção Refletir By Aline Zattar",
-      "headless": false
+      "title": "Coleção Refletir By Bruna Rêgo",
+      "collection_id": "64e8b3802cd6b659592b4154:categories:Bruna Rego:/brunarego"
     },
     {
       "type": "collection-shelf",
