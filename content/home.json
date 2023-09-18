@@ -3,45 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2023-09-09_121416844.png",
-          "link": "https://primasplus.com.br/refletir"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2023-07-14_215302493.png",
-          "link": "https://primasplus.com.br/moda-intima"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2023-06-22_192056714.png",
-          "link": "https://primasplus.com.br/moda-fitness"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2023-07-30_132125244.png"
-        },
-        {
-          "start": "",
-          "end": "2023-09-09T22:28:40.385Z",
-          "img": "/img/uploads/imagem_2023-08-01_132553045.png"
-        }
-      ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -53,6 +14,10 @@
           "link": "https://primasplus.com.br/alinezattar"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "shelfs-nav",
