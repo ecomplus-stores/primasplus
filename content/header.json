@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "CUPOM \"MARAVIGOLD\" GANHE 10% DESCONTO PRIMEIRA COMPRA!!",
     "link": "",
-    "background": "#ff00fa",
-    "color": "#110808"
+    "background": "#ffbdfe",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
