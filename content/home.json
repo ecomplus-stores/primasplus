@@ -23,7 +23,8 @@
       "banners": [
         {
           "img": "/img/uploads/1.png",
-          "link": "https://primasplus.com.br/brunarego"
+          "link": "https://primasplus.com.br/brunarego",
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "img": "/img/uploads/2.png",
