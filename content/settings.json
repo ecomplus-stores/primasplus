@@ -1,12 +1,12 @@
 {
   "domain": "primasplus.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ff00fa",
+  "primary_color": "#f4aef0",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "clean-white"
+    "bootswatch": "lux",
+    "custom": "niche-flowers"
   },
-  "bg_color": "#f3d6ef",
+  "bg_color": "#ffd5f8",
   "repository": "ecomplus-stores/primasplus",
   "logo": "/img/uploads/9511-whatsapp-image-2022-02-26-at-13.36.14.png",
   "name": "Primas Plus",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/9511-whatsapp-image-2022-02-26-at-13.36.14.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#110808",
+  "secondary_color": "#000000",
   "icon": "/img/uploads/9511-eeeeeeeeeeeee.png",
   "store_id": 9511,
   "description": "Primas Plus",
