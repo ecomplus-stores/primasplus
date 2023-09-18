@@ -42,12 +42,6 @@
       "enabled": true
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
@@ -65,16 +59,10 @@
       "title": "PRÉ-VENDA"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2023-02-28_162625930.png"
-        }
-      ]
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     },
     {
       "type": "breadcrumbs",
