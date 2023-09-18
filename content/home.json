@@ -42,6 +42,19 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png",
+          "link": "https://primasplus.com.br/brunarego"
+        },
+        {
+          "img": "/img/uploads/2.png",
+          "link": "https://primasplus.com.br/alinezattar"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
