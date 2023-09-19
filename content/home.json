@@ -37,7 +37,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/4.png"
+          "img": "/img/uploads/4.png",
+          "link": "https://primasplus.com.br/moda-fitness"
         },
         {
           "img": "/img/uploads/3.png",
