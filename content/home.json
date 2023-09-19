@@ -47,6 +47,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/imagem_2023-09-19_001013672.png"
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 10,
