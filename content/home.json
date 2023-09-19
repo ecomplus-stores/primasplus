@@ -34,6 +34,10 @@
       "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/imagem_2023-09-19_001013672.png"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -45,10 +49,6 @@
           "link": "https://primasplus.com.br/moda-intima"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/imagem_2023-09-19_001013672.png"
     },
     {
       "type": "shelfs-nav",
