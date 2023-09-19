@@ -3,11 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/imagem_2023-09-19_141234096.png",
-      "link": ""
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -21,6 +16,11 @@
           "mobile_img": ""
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/imagem_2023-09-19_141234096.png",
+      "link": ""
     },
     {
       "type": "info-bar",
