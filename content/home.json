@@ -80,6 +80,15 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-09-19T19:45:34.930Z",
+      "end": "2023-09-30T19:45:34.954Z",
+      "offers": [
+        "6509d4742cd6b65959542f97"
+      ]
     }
   ]
 }
