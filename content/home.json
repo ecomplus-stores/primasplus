@@ -3,22 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2023-09-18_202441715.png"
-        }
-      ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -37,6 +21,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/imagem_2023-09-18_201523851.png",
       "link": "https://primasplus.com.br/moda-fitness"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "shelfs-nav",
@@ -59,13 +47,13 @@
       "sort": null
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
