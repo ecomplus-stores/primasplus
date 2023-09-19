@@ -2,29 +2,32 @@
   "marketing_stripe": {
     "text": "CUPOM \"MARAVIGOLD\" GANHE 10% DESCONTO PRIMEIRA COMPRA!!",
     "link": "",
-    "background": "#f418f1",
+    "background": "#fa8bf8",
     "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
-      {}
+      {
+        "title": "aaaasasasas"
+      }
     ],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
     "featured": [
-      "/pecas?peças",
+      "/pecas?Peças",
       "/moda-fitness?Moda Fitness",
       "/moda-intima?Moda Intima",
       "/prevenda?PRÉ-VENDA",
       "/outlet?Outlet",
-      "/brunarego?Bruna Rego"
+      "/brunarego?Bruna Rego",
+      "/refletir?Coleção Refletir"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true,
