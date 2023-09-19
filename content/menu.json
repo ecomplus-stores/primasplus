@@ -1,6 +1,8 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": true,
+  "sort_categories": [
+    "pecas"
+  ],
+  "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
 }
