@@ -6,11 +6,7 @@
     "color": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "aaaasasasas"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
