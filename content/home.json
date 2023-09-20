@@ -27,6 +27,10 @@
       "enabled": true
     },
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "page-title"
     },
     {
@@ -79,10 +83,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     }
   ]
 }
