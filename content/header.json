@@ -17,10 +17,9 @@
       "/moda-intima?Moda Intima",
       "/prevenda?PRÉ-VENDA",
       "/outlet?Outlet",
-      "/brunarego?Bruna Rego",
       "/refletir?Coleção Refletir"
     ],
-    "random": 7,
+    "random": 6,
     "full_width": true
   },
   "desktop_megamenu": true,
