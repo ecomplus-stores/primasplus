@@ -19,7 +19,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ggggggggg.png"
+      "img": "/img/uploads/ggggggggg.png",
+      "link": "https://primasplus.com.br/pecas"
     },
     {
       "type": "info-bar",
