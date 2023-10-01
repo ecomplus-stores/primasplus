@@ -3,8 +3,21 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/4.png",
+          "link": "https://primasplus.com.br/moda-fitness"
+        },
+        {
+          "img": "/img/uploads/3.png",
+          "link": "https://primasplus.com.br/moda-intima"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/ggggggggg.png",
+      "img": "/img/uploads/imagem_2023-10-01_133113106.png",
       "link": "https://primasplus.com.br/pecas"
     },
     {
@@ -31,19 +44,6 @@
       "limit": 24,
       "page": 1,
       "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/4.png",
-          "link": "https://primasplus.com.br/moda-fitness"
-        },
-        {
-          "img": "/img/uploads/3.png",
-          "link": "https://primasplus.com.br/moda-intima"
-        }
-      ]
     },
     {
       "type": "responsive-banner",
