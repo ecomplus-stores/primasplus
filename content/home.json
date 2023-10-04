@@ -34,10 +34,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "news",
-      "collection_id": "6511f4e82cd6b659595d1a89:categories:Kayla By Débora Fernandes:/kayla-dezinha",
-      "title": "Kayla & Dezinha",
-      "link": "https://primasplus.com.br/kayla-dezinha"
+      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
     },
     {
       "type": "responsive-banner",
@@ -49,7 +46,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
+      "sort": "news",
+      "collection_id": "6511f4e82cd6b659595d1a89:categories:Kayla By Débora Fernandes:/kayla-dezinha",
+      "title": "Kayla & Dezinha",
+      "link": "https://primasplus.com.br/kayla-dezinha"
     },
     {
       "type": "banners-grid",
