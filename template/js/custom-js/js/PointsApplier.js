@@ -67,9 +67,8 @@ export default {
                 availablePoints[programId] = pointsEntry.max_points
               }
               const { ratio } = this.localPointsPrograms[programId]
-              console.log()
-              const amountTotal = window.storefrontApp && window.storefrontApp.amount && window.storefrontApp.amount.total
-              if (availablePoints[programId] * ratio > this.maxPointsAmount) {
+              const amountTotal = window.storefrontApp && window.storefrontApp.amount && window.storefrontApp.amount.subtotal
+              if (availablePoints[programId] * ratio > amountTotal) {
                 availablePoints[programId] = (amountTotal - 10) / ratio
               }
             }
