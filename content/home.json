@@ -34,7 +34,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
+      "sort": "news",
+      "collection_id": "65293ae32cd6b6595978bdfb:categories:Coleção Algarve:/colecttion-algarve",
+      "title": "Coleção Algarve",
+      "link": ""
     },
     {
       "type": "responsive-banner",
@@ -46,10 +49,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "news",
-      "collection_id": "65293ae32cd6b6595978bdfb:categories:Coleção Algarve:/colecttion-algarve",
-      "title": "Coleção Algarve",
-      "link": ""
+      "collection_id": "63cea1c6b9e5be07784284b0:categories:PRÉ-VENDA:/prevenda"
     },
     {
       "type": "banners-grid",
