@@ -16,10 +16,9 @@
       "/moda-fitness?Moda Fitness",
       "/moda-intima?Moda Intima",
       "/prevenda?PRÉ-VENDA",
-      "/outlet?Outlet",
       "/preciosidade?Coleção Preciosidade"
     ],
-    "random": 6,
+    "random": 5,
     "full_width": true
   },
   "desktop_megamenu": true,
