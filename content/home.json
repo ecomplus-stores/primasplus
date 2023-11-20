@@ -44,12 +44,25 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/4.png",
-          "link": "https://primasplus.com.br/moda-fitness"
+          "img": "/img/uploads/5.png",
+          "link": "https://primasplus.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/3.png",
-          "link": "https://primasplus.com.br/moda-intima"
+          "img": "/img/uploads/6.png",
+          "link": "https://primasplus.com.br/macacao/longo"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/7.png",
+          "link": "https://primasplus.com.br/calcas"
+        },
+        {
+          "img": "/img/uploads/8.png",
+          "link": "https://primasplus.com.br/conjuntos"
         }
       ]
     },
