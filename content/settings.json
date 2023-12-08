@@ -6,7 +6,7 @@
     "bootswatch": "cerulean",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/primasplus",
   "logo": "/img/uploads/image.png",
   "name": "Primas Plus",
