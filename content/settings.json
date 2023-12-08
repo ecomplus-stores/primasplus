@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "lux",
-    "custom": "niche-flowers"
+    "bootswatch": "cerulean",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/primasplus",
