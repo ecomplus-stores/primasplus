@@ -13,9 +13,7 @@
   "categories_list": {
     "featured": [
       "/pecas?Peças",
-      "/moda-fitness?Moda Fitness",
-      "/moda-intima?Moda Intima",
-      "/night?Coleçao Night"
+      "/moda-intima?Moda Intima"
     ],
     "random": 5,
     "full_width": true
