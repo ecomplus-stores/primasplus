@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete gratis a partir de R$ 599,00 "
   },
   "installments": {
     "show": true,
-    "text": "Até 10x sem juros no cartão"
+    "text": "10x sem juros no cartão"
   },
   "exchange": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "Troca 100% gratuita"
   },
   "promo": {
     "show": true,
-    "text": "Troca 100% gratuita"
+    "text": "15% de desconto no PIX"
   }
 }
