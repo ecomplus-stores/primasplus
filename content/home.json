@@ -54,10 +54,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/imagem_2023-09-19_144056515.png"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
