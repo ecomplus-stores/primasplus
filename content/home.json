@@ -40,11 +40,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/11.png",
+          "img": "/img/uploads/14.png",
           "link": "https://primasplus.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/10.png",
+          "img": "/img/uploads/15.png",
           "link": "https://primasplus.com.br/macacao/longo"
         }
       ]
@@ -53,11 +53,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/capa-site.png",
+          "img": "/img/uploads/13.png",
           "link": "https://primasplus.com.br/calcas"
         },
         {
-          "img": "/img/uploads/9.png",
+          "img": "/img/uploads/16.png",
           "link": "https://primasplus.com.br/conjuntos"
         }
       ]
