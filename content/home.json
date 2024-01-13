@@ -53,24 +53,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2024-01-11_011645454.png"
-        }
-      ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "custom-html",
       "html": "<div class=\"list-variations\"><h4>COMPRE POR TAMANHOS</h4><ul><li><a href=\"/search?filters[]=tamanho:44\">44</a></li><li> <a href=\"/search?filters[]=tamanho:46\">46</a></li><li> <a href=\"/search?filters[]=tamanho:48\">48</a></li><li> <a href=\"/search?filters[]=tamanho:50\">50</a></li><li> <a href=\"/search?filters[]=tamanho:52\">52</a></li><li> <a href=\"/search?filters[]=tamanho:54\">54</a></li></ul><div>\n "
     },
