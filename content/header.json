@@ -13,9 +13,10 @@
   "categories_list": {
     "featured": [
       "/pecas?Peças",
-      "/moda-intima?Moda Intima"
+      "/moda-intima?Moda Intima",
+      "/folia?Folia Maravigold"
     ],
-    "random": 2,
+    "random": 3,
     "full_width": true
   },
   "desktop_megamenu": true,
