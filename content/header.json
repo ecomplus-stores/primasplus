@@ -13,7 +13,8 @@
   "categories_list": {
     "featured": [
       "/pecas?Peças",
-      "/moda-intima?Moda Intima"
+      "/moda-intima?Moda Intima",
+      "/outlet?Outlet"
     ],
     "random": 3,
     "full_width": true
