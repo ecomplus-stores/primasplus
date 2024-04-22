@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "CUPOM \"MARAVIGOLD\" 10% OFF PRIMEIRA COMPRA!",
+    "text": "CUPOM \"MARAVIGOLD\" 10% OFF PRIMEIRA COMPRA",
     "link": "",
     "background": "#fa05cc",
     "color": "#ffffff"
@@ -14,9 +14,10 @@
     "featured": [
       "/pecas?Peças",
       "/moda-intima?Moda Intima",
-      "/marcas?Marcas"
+      "/marcas?Marcas",
+      "/outlet?Outlet"
     ],
-    "random": 3,
+    "random": 4,
     "full_width": true
   },
   "desktop_megamenu": true,
