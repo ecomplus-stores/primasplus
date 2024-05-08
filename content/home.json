@@ -37,32 +37,6 @@
       "title": "Coleção Tropicália"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/15.png",
-          "link": "https://primasplus.com.br/macacao/curto"
-        },
-        {
-          "img": "/img/uploads/16.png",
-          "link": "https://primasplus.com.br/macacao/longo"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/14.png",
-          "link": "https://primasplus.com.br/calcas"
-        },
-        {
-          "img": "/img/uploads/17.png",
-          "link": "https://primasplus.com.br/conjuntos"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
