@@ -14,10 +14,9 @@
     "featured": [
       "/pecas?Peças",
       "/moda-intima?Moda Intima",
-      "/marcas?Marcas",
-      "/outlet?Outlet"
+      "/marcas?Marcas"
     ],
-    "random": 4,
+    "random": 3,
     "full_width": true
   },
   "desktop_megamenu": true,
