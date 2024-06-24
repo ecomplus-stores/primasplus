@@ -15,9 +15,10 @@
       "/pecas?Peças",
       "/moda-intima?Moda Intima",
       "/marcas?Marcas",
-      "/outlet?Outlet"
+      "/outlet?Outlet",
+      "/acao-kayla?Ação Kayla"
     ],
-    "random": 4,
+    "random": 9,
     "full_width": true
   },
   "desktop_megamenu": true,
