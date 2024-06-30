@@ -14,8 +14,7 @@
     "featured": [
       "/pecas?Peças",
       "/moda-intima?Moda Intima",
-      "/marcas?Marcas",
-      "/outlet?Outlet"
+      "/marcas?Marcas"
     ],
     "random": 4,
     "full_width": true
