@@ -38,6 +38,16 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "sort": "news",
+      "collection_id": "624dc4af2e405e04ff2808ad:brands:QueBela:/quebela",
+      "title": "Coleção QueBela",
+      "autoplay": 2000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "6239f49d2e405e04fff1ff60:brands:Kayla:/kayla",
       "sort": "news",
       "title": "Coleção Kayla",
