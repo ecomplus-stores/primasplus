@@ -39,8 +39,8 @@
       "limit": 24,
       "page": 1,
       "sort": "news",
-      "collection_id": "624dc4af2e405e04ff2808ad:brands:QueBela:/quebela",
-      "title": "Coleção QueBela",
+      "collection_id": "63fe17748930495030cf61fe:brands:MariahBo:/mariahbo",
+      "title": "Coleção MariahBo",
       "autoplay": 2000
     },
     {
@@ -68,28 +68,8 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "66d8f06ffc4aac27a2c6628f:brands:Rosa Milliossi:/rosa-milliossi",
-      "title": "Coleção RosaMilliossi",
-      "autoplay": 5000,
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
       "collection_id": "66d8f062fc4aac27a2c66288:brands:Maria Francia:/maria-francia",
       "title": "Coleção Maria Francia",
-      "autoplay": 5000,
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "663b8adff4e6d85ab27d687b:brands:Milanjus:/milanjus",
-      "title": "Coleção Milanjus",
       "autoplay": 5000,
       "sort": "news"
     },
