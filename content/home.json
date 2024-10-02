@@ -53,9 +53,9 @@
       "shuffle": false,
       "limit": 21,
       "page": 1,
-      "collection_id": "66e43e389e4b2e07f50a47f5:brands:HOTPINK:/hotpink",
+      "collection_id": "663b8adff4e6d85ab27d687b:brands:Milanjus:/milanjus",
       "sort": "news",
-      "title": "Coleção HotPink",
+      "title": "Coleção Milanjus",
       "autoplay": 4000
     },
     {
@@ -64,8 +64,8 @@
       "limit": 24,
       "page": 1,
       "sort": "news",
-      "collection_id": "63fe17748930495030cf61fe:brands:MariahBo:/mariahbo",
-      "title": "Coleção MariahBo",
+      "collection_id": "66d8f062fc4aac27a2c66288:brands:Maria Francia:/maria-francia",
+      "title": "Coleção Maria Francia",
       "autoplay": 2000
     },
     {
