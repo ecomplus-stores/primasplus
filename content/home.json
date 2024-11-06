@@ -33,6 +33,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 21,
+      "page": 1,
+      "collection_id": "663b8adff4e6d85ab27d687b:brands:Milanjus:/milanjus",
+      "title": "Coleção Milanjus",
+      "autoplay": 5000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "6239f49d2e405e04fff1ff60:brands:Kayla:/kayla",
