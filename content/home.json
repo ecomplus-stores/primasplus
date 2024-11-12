@@ -33,20 +33,20 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 21,
       "page": 1,
-      "collection_id": "6239f49d2e405e04fff1ff60:brands:Kayla:/kayla",
-      "sort": "news",
-      "title": "Coleção Kayla",
+      "collection_id": "63fe17748930495030cf61fe:brands:MariahBo:/mariahbo",
+      "title": "Coleção MariahBo",
       "autoplay": 5000
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 21,
+      "limit": 24,
       "page": 1,
-      "collection_id": "663b8adff4e6d85ab27d687b:brands:Milanjus:/milanjus",
-      "title": "Coleção Milanjus",
+      "collection_id": "6239f49d2e405e04fff1ff60:brands:Kayla:/kayla",
+      "sort": "news",
+      "title": "Coleção Kayla",
       "autoplay": 5000
     },
     {
