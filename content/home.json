@@ -33,6 +33,24 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "66d8f062fc4aac27a2c66288:brands:Maria Francia:/maria-francia",
+      "title": "Coleção Maria Francia",
+      "autoplay": 2000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "623539202e405e04ffe954b0:brands:DivasVoga:/divas-voga",
+      "title": "Coleção DivasVoga"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 21,
       "page": 1,
       "collection_id": "63fe17748930495030cf61fe:brands:MariahBo:/mariahbo",
@@ -59,24 +77,6 @@
       "title": "Coleção RosaMilliossi",
       "autoplay": 4000,
       "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "66d8f062fc4aac27a2c66288:brands:Maria Francia:/maria-francia",
-      "title": "Coleção Maria Francia",
-      "autoplay": 2000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 20,
-      "page": 1,
-      "collection_id": "623539202e405e04ffe954b0:brands:DivasVoga:/divas-voga",
-      "title": "Coleção DivasVoga"
     },
     {
       "type": "dynamic-showcase",
