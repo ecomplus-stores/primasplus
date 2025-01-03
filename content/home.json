@@ -6,21 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/6e8b3b37-cd00-4ddc-aa2f-998992e7aad1.jpeg",
-          "img": "/img/uploads/6e8b3b37-cd00-4ddc-aa2f-998992e7aad1.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/imagem_2024-12-09_035122578.png",
-          "link": "https://primasplus.com.br/moda-intima",
-          "mobile_img": "/img/uploads/imagem_2024-11-18_182225139.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
