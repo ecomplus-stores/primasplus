@@ -29,6 +29,33 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "663b8adff4e6d85ab27d687b:brands:Milanjus:/milanjus",
+      "sort": "news",
+      "title": "Coleção Milanjus"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "623539202e405e04ffe954b0:brands:DivasVoga:/divas-voga",
+      "title": "Coleção DivasVoga",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66d8f062fc4aac27a2c66288:brands:Maria Francia:/maria-francia",
+      "sort": "news",
+      "title": "Coleção Maria Francia"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     }
