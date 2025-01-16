@@ -24,11 +24,6 @@
       "html": "<div class=\"list-variations\"><h4>COMPRE POR TAMANHOS</h4><ul><li><a href=\"/search?filters[]=tamanho:44\">44</a></li><li> <a href=\"/search?filters[]=tamanho:46\">46</a></li><li> <a href=\"/search?filters[]=tamanho:48\">48</a></li><li> <a href=\"/search?filters[]=tamanho:50\">50</a></li><li> <a href=\"/search?filters[]=tamanho:52\">52</a></li><li> <a href=\"/search?filters[]=tamanho:54\">54</a></li></ul><div>\n "
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -54,6 +49,11 @@
       "collection_id": "66d8f062fc4aac27a2c66288:brands:Maria Francia:/maria-francia",
       "sort": "news",
       "title": "Coleção Maria Francia"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "breadcrumbs",
