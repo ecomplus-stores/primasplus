@@ -28,6 +28,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6239f49d2e405e04fff1ff60:brands:Kayla:/kayla",
+      "sort": "news",
+      "title": "Coleção Kayla",
+      "autoplay": 5000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "66d8f06ffc4aac27a2c6628f:brands:Rosa Milliossi:/rosa-milliossi",
       "sort": "news",
       "title": "Coleção RosaMilliossi",
