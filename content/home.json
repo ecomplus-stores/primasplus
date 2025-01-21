@@ -47,6 +47,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "66e43e389e4b2e07f50a47f5:brands:HOTPINK:/hotpink",
+      "sort": "news",
+      "title": "Coleção HotPink",
+      "autoplay": 4000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "66d8f06ffc4aac27a2c6628f:brands:Rosa Milliossi:/rosa-milliossi",
       "sort": "news",
       "title": "Coleção RosaMilliossi",
