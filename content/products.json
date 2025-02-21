@@ -27,6 +27,16 @@
       "enabled": true
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "64e8275d2cd6b659592a9d05:categories:Peças:/pecas"
+      ],
+      "sort": "views"
+    },
+    {
       "type": "related-products",
       "title": "PRODUTOS RELACIONADOS "
     }
