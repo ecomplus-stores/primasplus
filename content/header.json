@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "VENHA SER MARAVIGOLD VOCÊ TAMBÉM!",
+    "text": "VENHA SER MARAVIGOLD VOCÊ TAMBÉM",
     "link": "",
     "background": "#f8bee2",
     "color": "#ffffff"
@@ -13,10 +13,9 @@
   "categories_list": {
     "featured": [
       "/pecas?Peças",
-      "/moda-intima?Moda Intima",
-      "/outlet?Outlet"
+      "/moda-intima?Moda Intima"
     ],
-    "random": 3,
+    "random": 2,
     "full_width": true
   },
   "desktop_megamenu": true,
