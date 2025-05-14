@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Frete gratis a partir de R$ 299,00"
+    "show": true,
+    "text": "Frete gratis a partir de R$ 399,00"
   },
   "installments": {
     "show": true,
