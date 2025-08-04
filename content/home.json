@@ -6,7 +6,14 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/feed-banner-site-.jpg",
+          "mobile_img": "/img/uploads/feed-banner-post-para-instagram-45-.jpg"
+        }
+      ]
     },
     {
       "type": "info-bar",
