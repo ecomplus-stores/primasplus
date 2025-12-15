@@ -13,10 +13,9 @@
   "categories_list": {
     "featured": [
       "/pecas?Peças",
-      "/outlet?Outlet",
-      "/kaylaoff?KAYLA 50% OFF"
+      "/outlet?Outlet"
     ],
-    "random": 3,
+    "random": 2,
     "full_width": true
   },
   "desktop_megamenu": true,
