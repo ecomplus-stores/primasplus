@@ -6,7 +6,13 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/feed.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
