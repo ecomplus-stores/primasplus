@@ -6,7 +6,13 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/imagem_2026-06-02_143049893.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
