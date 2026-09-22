@@ -6,13 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2026-09-01-at-10.58.41.jpeg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
